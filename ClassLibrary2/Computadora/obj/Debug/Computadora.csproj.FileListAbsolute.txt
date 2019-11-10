@@ -1,0 +1,11 @@
+C:\Users\Sonia\documents\visual studio 2015\Projects\ClassLibrary2\Computadora\bin\Debug\Computadora.exe.config
+C:\Users\Sonia\documents\visual studio 2015\Projects\ClassLibrary2\Computadora\bin\Debug\Computadora.exe
+C:\Users\Sonia\documents\visual studio 2015\Projects\ClassLibrary2\Computadora\bin\Debug\Computadora.pdb
+C:\Users\Sonia\documents\visual studio 2015\Projects\ClassLibrary2\Computadora\obj\Debug\Computadora.csprojResolveAssemblyReference.cache
+C:\Users\Sonia\documents\visual studio 2015\Projects\ClassLibrary2\Computadora\obj\Debug\Computadora.Properties.Resources.resources
+C:\Users\Sonia\documents\visual studio 2015\Projects\ClassLibrary2\Computadora\obj\Debug\Computadora.csproj.GenerateResource.Cache
+C:\Users\Sonia\documents\visual studio 2015\Projects\ClassLibrary2\Computadora\obj\Debug\Computadora.exe
+C:\Users\Sonia\documents\visual studio 2015\Projects\ClassLibrary2\Computadora\obj\Debug\Computadora.pdb
+C:\Users\Sonia\documents\visual studio 2015\Projects\ClassLibrary2\Computadora\bin\Debug\ClassLibrary2.dll
+C:\Users\Sonia\documents\visual studio 2015\Projects\ClassLibrary2\Computadora\bin\Debug\ClassLibrary2.pdb
+C:\Users\Sonia\documents\visual studio 2015\Projects\ClassLibrary2\Computadora\obj\Debug\Computadora.Form1.resources
